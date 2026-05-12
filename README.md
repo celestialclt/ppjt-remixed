@@ -6,3 +6,5 @@ remix ppjt on pc
 remix ppjt  
 你好 我叫asw 居安思危的asw
 >>>>>>> 709ed4b9be4c634f98ad450150772e53d0176687
+我是你爸爸
+我还是你爸爸
